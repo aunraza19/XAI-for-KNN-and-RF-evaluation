@@ -72,7 +72,6 @@ While traditional ML models can achieve high accuracy, they often act like "blac
 1. Clone the repo:
    ```bash
    git clone https://github.com/aunraza19/XAI-for-KNN-andRf-evaluation.git
-   cd breast-cancer-knn-xai
    
 Run the Jupyter notebook:
 
